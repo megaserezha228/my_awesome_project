@@ -4,4 +4,5 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://megaserezha228.github.io/my_awesome_project/)
+
+- [Публичная страница на GitHub Pages](https://megaserezha228.github.io/my_awesome_project/index.html)
