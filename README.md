@@ -5,5 +5,6 @@
 
 ## Ссылки
 
-- [Публичная страница на GitHub Pages](https://megaserezha228.github.io/my_awesome_project/src)
+- [Публичная страница на GitHub Pages](https://megaserezha228.github.io/my_awesome_project/src/index.html)
+
 
